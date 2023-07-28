@@ -31,6 +31,7 @@ public class Assertions {
 			}
 		}
 		Assert.assertEquals(count, 5);
+Hi,Hello,Good Morning
 	}
 }
 
